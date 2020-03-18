@@ -1,1 +1,2 @@
+bleach==1.5
 Mezzanine==4.2.2
